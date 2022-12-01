@@ -1,0 +1,38 @@
+
+ * {
+    border: 1px dashed red;
+    min-height: 10px;
+} 
+.startdiv{
+   
+    justify-content: flex-start;
+    
+}
+
+.cursorpointer{
+  
+    cursor: pointer;
+    
+}
+
+
+
+.divoverflow{
+    width: 1200px;
+    height: 600px;
+    overflow-x: scroll;
+    display:inline-flex;
+    
+}
+
+.marginclasstopbottom{
+    margin-top: 25px;
+    margin-bottom: 25px;
+}
+.marginrightleft{
+    margin-left: 20px;
+    margin-right: 20px;
+}
+.cardbody{
+    height: 200px;
+}
